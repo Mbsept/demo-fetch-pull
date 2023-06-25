@@ -1,3 +1,10 @@
+Superhero
+----------
+Dr. Fate
+Batman
+
+Animals
+---------------
 Dog
 Cat
 Cow
