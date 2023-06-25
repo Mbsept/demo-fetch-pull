@@ -1,4 +1,2 @@
-Dog
-Cat
-Cow
-Sheep
+Dr. Fate
+Batman
