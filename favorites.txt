@@ -1,2 +1,12 @@
+Superhero
+----------
 Dr. Fate
 Batman
+
+Animals
+---------------
+Dog
+Cat
+Cow
+Sheep
+Hens and Chikens 
